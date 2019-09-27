@@ -1,2 +1,2 @@
-# ce-vector
+# CE Vector
 Vector math library
